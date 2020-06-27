@@ -1,0 +1,28 @@
+@font-face {
+    font-family: Circular;
+    src: url(../fonts/CircularSpUIv3T-Book.woff);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #fcfcfc;
+}
+
+h1 {
+    padding-top: 5vh;
+    text-align: center;
+    font-family: Circular;
+}
+
+img {
+    border-radius: 5%;
+    width: 75vw;
+    height: auto;
+    padding: 2em;
+}
+
+.div {
+    text-align: center;
+}
